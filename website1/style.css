@@ -1,0 +1,20 @@
+body{
+	background-image:url("https://img.freepik.com/free-vector/luxury-background-with-golden-abstract-shapes_23-2148258292.jpg?size=626&ext=jpg"); 
+	background-size: 100%;
+}
+h1{
+	text-align: center;
+	font-size: 50 px;
+	color: steelblue;
+}
+form{
+	text-align: center;
+	margin: 20 px auto;
+	width: 320 px;
+	color: steelblue;
+
+}
+input{
+	padding: 10 px;
+	font-size: inherit;
+}
